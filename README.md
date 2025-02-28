@@ -2,7 +2,7 @@
   <img alt="coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M0eGdlcmJ5ZWhheGNmamhkc3pycWJrdjdtOTdqbHBtYWQwMm50bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="90%" height="300px" />
 </p>
 
-<h1 align="center">Hi 👋, I'm özge</h1>
+<h1 align="center">Hi 👋 I'm özge</h1>
 <h3 align="center">A passionate junior developer from Turkey</h3>
 
 - 🔭 I’m currently working on **web programming**
