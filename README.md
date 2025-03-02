@@ -2,8 +2,16 @@
   <img alt="coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M0eGdlcmJ5ZWhheGNmamhkc3pycWJrdjdtOTdqbHBtYWQwMm50bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="90%" height="300px" />
 </p>
 
-<h1 align="center">Hi 👋 I'm özge</h1>
-<h3 align="center">A passionate junior developer from Turkey</h3>
+<div align="center">
+ <a href="https://github.com/ozge12344">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Özge+Özen+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%F0%9F%92%96" alt="Typing SVG" />
+ </a>
+</div>
+
+
+
+
+<h3 >A passionate Software Developer from Turkey</h3>
 
 - 🔭 I’m currently working on **web programming**
 
